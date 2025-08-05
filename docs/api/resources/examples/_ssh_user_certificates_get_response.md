@@ -4,15 +4,15 @@
 
 ```json
 {
-  "certificate": "ecdsa-sha2-nistp256-cert-v01@openssh.com AAAAKGVjZHNhLXNoYTItbmlzdHAyNTYtY2VydC12MDFAb3BlbnNzaC5jb20AAAAgZpSOngF96PHNT1RvlyR16AJdSUg910JXJjRNbWYj4LEAAAAIbmlzdHAyNTYAAABBBK58lFzmWlDimDtBz78wVT4oauA8PjY0CiXTCEIsBNC6UwOJvZ0jdSaYNhDaa7dRV84DfBb/gKzqlXC7cVMZjl0AAAAAAAAAAAAAAAEAAAAhc3VjcnRfMnlKUVlLNXVyaUZpblhTeEZBTHo1MFBMSzdXAAAAFAAAAAhlYzItdXNlcgAAAARyb290AAAAAGhIBKIAAAAAaL6rogAAAAAAAAAoAAAACnBlcm1pdC1wdHkAAAAAAAAADnBlcm1pdC11c2VyLXJjAAAAAAAAAAAAAAAzAAAAC3NzaC1lZDI1NTE5AAAAIOcj+7VR8Ot6f5DsIpF42qyRscCgUxVcQT2Y6L7/fCXLAAAAUwAAAAtzc2gtZWQyNTUxOQAAAEDdt11bPgsq0q++AUg983xm2umN2IQIzhVZSTDV2kPy/sTD/6Gf/Ve2Je2dQc9WhCPX/vSewKGd5SvEbqvVvKEC sucrt_2yJQYK5uriFinXSxFALz50PLK7W",
-  "created_at": "2025-06-10T10:10:42Z",
+  "certificate": "ecdsa-sha2-nistp256-cert-v01@openssh.com AAAAKGVjZHNhLXNoYTItbmlzdHAyNTYtY2VydC12MDFAb3BlbnNzaC5jb20AAAAgLa7icxjZfl2TVOe/9NeGVvw8T1XstOIEwxDfQ0y5SY0AAAAIbmlzdHAyNTYAAABBBK58lFzmWlDimDtBz78wVT4oauA8PjY0CiXTCEIsBNC6UwOJvZ0jdSaYNhDaa7dRV84DfBb/gKzqlXC7cVMZjl0AAAAAAAAAAAAAAAEAAAAhc3VjcnRfMzBzYW1vRjVrZ0ZPM2lITDdkUnNxaEQyZUpVAAAAFAAAAAhlYzItdXNlcgAAAARyb290AAAAAGiSTs8AAAAAaQj1zwAAAAAAAAAoAAAACnBlcm1pdC1wdHkAAAAAAAAADnBlcm1pdC11c2VyLXJjAAAAAAAAAAAAAAAzAAAAC3NzaC1lZDI1NTE5AAAAIL83300xURMK95FwznAA6VoJftDMciQT0505ppUdnQnwAAAAUwAAAAtzc2gtZWQyNTUxOQAAAECR0/RDinMyAHXIrbAyhkvlYOM45rIPy4gf6lbQ6FsD0UxcZNpNGDZgsEl/vwqqg0oAANNKdsBLVztSIO7SUlAF sucrt_30samoF5kgFO3iHL7dRsqhD2eJU",
+  "created_at": "2025-08-05T18:34:55Z",
   "critical_options": {},
   "description": "temporary access to staging machine for alan",
   "extensions": {
     "permit-pty": "",
     "permit-user-rc": ""
   },
-  "id": "sucrt_2yJQYK5uriFinXSxFALz50PLK7W",
+  "id": "sucrt_30samoF5kgFO3iHL7dRsqhD2eJU",
   "key_type": "ecdsa",
   "metadata": "{\"user_email\": \"alan@example.com\"}",
   "principals": [
@@ -20,9 +20,9 @@
     "root"
   ],
   "public_key": "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBK58lFzmWlDimDtBz78wVT4oauA8PjY0CiXTCEIsBNC6UwOJvZ0jdSaYNhDaa7dRV84DfBb/gKzqlXC7cVMZjl0= alan@work-laptop",
-  "ssh_certificate_authority_id": "sshca_2yJQYO9kdBLCpq6TOVkhS9XgTBu",
-  "uri": "https://api.ngrok.com/ssh_user_certificates/sucrt_2yJQYK5uriFinXSxFALz50PLK7W",
-  "valid_after": "2025-06-10T10:10:42Z",
-  "valid_until": "2025-09-08T10:10:42Z"
+  "ssh_certificate_authority_id": "sshca_30sammC9jRqO9sYZbzS32Eq5CYi",
+  "uri": "https://api.ngrok.com/ssh_user_certificates/sucrt_30samoF5kgFO3iHL7dRsqhD2eJU",
+  "valid_after": "2025-08-05T18:34:55Z",
+  "valid_until": "2025-11-03T18:34:55Z"
 }
 ```

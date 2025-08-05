@@ -5,13 +5,13 @@
 ```json
 {
   "address": "example.com:8080",
-  "created_at": "2025-06-10T10:10:43Z",
+  "created_at": "2025-08-05T18:34:55Z",
   "description": "acme weighted",
-  "id": "bkdsc_2yJQYUbaTeN77tB1bRWQyVSHor4",
+  "id": "bkdsc_30samsiNVJOk24qYTHEn5Dk1LrV",
   "metadata": "{\"environment\": \"production\"}",
   "tls": {
     "enabled": false
   },
-  "uri": "https://api.ngrok.com/backends/static/bkdsc_2yJQYUbaTeN77tB1bRWQyVSHor4"
+  "uri": "https://api.ngrok.com/backends/static/bkdsc_30samsiNVJOk24qYTHEn5Dk1LrV"
 }
 ```
